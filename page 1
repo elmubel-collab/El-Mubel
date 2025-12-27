@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head 
+  <title>My Web Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text color: blue;
+      background: white;
+      text-align: center;
+    }
+    <h1>EL MUBEL DU RASPORODI</h1>
+      zhqettncolor: #333;
+    }
+  </style>
+
+</head>
+<body>
+
+  <h1></h1>
+  <p>This is my first web page.</p>
+
+</body>
+</html>
